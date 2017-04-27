@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Build Vapor Project",
+        "command": "swift-vapor:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "swift-vapor",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "swift-vapor:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
