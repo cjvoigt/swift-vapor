@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Build Vapor Project",
-        "command": "swift-vapor:run"
+        "command": "swift-vapor:build"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Run",
-              "command": "swift-vapor:run"
+              "command": "swift-vapor:build"
             }
           ]
         }

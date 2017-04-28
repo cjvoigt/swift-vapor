@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "swift-vapor:toggle"
+    "ctrl-alt-o": "swift-vapor:build"
   }
 }
